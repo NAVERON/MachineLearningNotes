@@ -1,0 +1,6 @@
+**/__pycache__/
+**/output/
+**/mnist/
+**/logs/
+*.wpr 
+
